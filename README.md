@@ -1,2 +1,2 @@
-# my-second-repo
+# my-Assignments-repo
 this is my second repository...
